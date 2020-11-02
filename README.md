@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Sawant</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonestreak" alt="alonestreak" /></a> </p>
-
 - 🌱 I’m currently learning **ELK stack and ML**
 
 - 👯 I’m looking to collaborate on **Full stack development and deep learning projects**
@@ -13,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alonestreak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alonestreak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sushant-sawant-alonestreak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sushant-sawant-alonestreak/" height="30" width="40" /></a>
+<a href="https://fb.com/sushant sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushant sawant" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sushant sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sushant sawant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
