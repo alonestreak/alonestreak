@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Sawant</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <p> About me 🤓<br>
-A tech enthusiast with a passion to solve problems and making things solve problems in creative and interactive ways. At Thadomal Shahani Engineering College, where I am completing my final year of  Engineering, I have learned the importance of applying classical strategies to modern-day projects.  I believe that I am a versatile learner and can get going with any sort of work.
+A tech enthusiast with a passion to solve problems and making things solve problems in creative and interactive ways. At Thadomal Shahani Engineering College, where I am completing my final year of  Engineering, I have learned the importance of applying classical strategies to modern-day projects.  I believe that I am a <b>versatile learner</b> and can get going with any sort of work.
 </p>
 
 
