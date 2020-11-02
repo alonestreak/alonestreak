@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sushant-sawant-alonestreak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sushant-sawant-alonestreak/" height="30" width="40" /></a>
-<a href="https://fb.com/sushant sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushant sawant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sushant sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sushant sawant" height="30" width="40" /></a>
+<a href="https://fb.com/sushant.sawant.1671" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushant.sawant.1671" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sushantsawant865" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sushantsawant865" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
