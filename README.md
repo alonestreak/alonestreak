@@ -5,13 +5,13 @@ A tech enthusiast with a passion to solve problems and making things solve probl
 </p>
 
 
-- 🌱 I’m currently learning **ELK stack and ML**
+- 🌱 I’m currentlyworking on Frontend development using React.js and Springboot
 
-- 👯 I’m looking to collaborate on **Full stack development and deep learning projects**
+- 👯 I’m looking to collaborate on **Full stack development and CICD pipelines development**
 
 - 📫 How to reach me **sushantsawant865@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bW7ElJKgBzg6laoXsXvu-eNKYod6Vpqn/view?usp=sharing](https://drive.google.com/file/d/1bW7ElJKgBzg6laoXsXvu-eNKYod6Vpqn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11B11_27hff01DaCBDGQ2Bnt0czm94LQt/view?usp=share_link](https://drive.google.com/file/d/1bW7ElJKgBzg6laoXsXvu-eNKYod6Vpqn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
